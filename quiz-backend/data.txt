@@ -1,0 +1,29 @@
+
+ques
+"What causes Python to be single-threaded"
+ans1
+"Python is inherently single-threaded"
+ans2
+"Global Interpreter Lock (GIL)"
+ans3
+"No provision to spin up a new thread"
+ans4
+"None of the above"
+ans
+"ans4"
+
+-----------------------------------------------------------
+
+
+ques
+"Which datastructure in Python is used to store key value pair"
+ans1
+"List"
+ans2
+"Tuple"
+ans3
+"Dictionary"
+ans4
+"None of the above"
+ans
+"ans3"
